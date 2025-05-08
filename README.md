@@ -6,8 +6,8 @@
 git clone [https://github.com/greenarun/LoginDesign/](https://github.com/greenarun/LoginDesign.git)
 
 ### Set up the frontend:
-npm install
-npm start
+# npm install
+# npm start
 
 Visit http://localhost:5173 to see the project.
 
